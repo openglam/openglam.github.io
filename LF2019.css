@@ -7,6 +7,7 @@ body {
 h1 {
     font-size: 2rem;
     font-weight: bold;
+    border-bottom: none;
 }
 
 h3 {
@@ -15,11 +16,11 @@ h3 {
 }
 
 .text_area {
-    margin-bottom: 50px;
+    
 }
 
 #main_title {
-    font-size: 4rem;
+    font-size: 3.5rem;
 }
 
 
